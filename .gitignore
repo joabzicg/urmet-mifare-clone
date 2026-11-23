@@ -1,0 +1,7 @@
+# dumps/keyfiles com a chave e os dados da tag original ficam locais
+dump_urmet/
+mct/
+*.mct
+*.bin
+build/
+.build_*
